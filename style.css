@@ -54,9 +54,3 @@ h3{font-size:18px}
   .nav-links.open{display:flex}
   .menu-btn{display:inline-block}
 }
-.card:hover {
-  transform: scale(1.03);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
-  transition: 0.3s ease;
-}
-
