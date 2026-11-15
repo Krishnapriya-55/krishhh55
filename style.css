@@ -18,16 +18,16 @@
   --bg: #f6f4ee;
   --surface: #eeece5;
   --text: #262923;
-  --muted: #66685f;
+  --muted: #666856;
   --line: #d8d8ce;
-  --accent: #b74624;
+  --accent: #b74625;
   --study-panel: #f6f4ee;
   --header: rgba(246,244,238,.96);
   --sans: Manrope,'Segoe UI',sans-serif;
   --mono: 'DM Mono',Consolas,monospace;
   --serif: Georgia,'Times New Roman',serif;
   --gutter: clamp(22px,5.5vw,88px);
-  --header-height: 84px;
+  --header-height: 75px;
 }
 [data-theme=dark] {
   color-scheme: dark;
